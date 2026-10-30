@@ -1,0 +1,13 @@
+{
+  "name": "ai-task-playbook",
+  "version": "0.2.0",
+  "description": "Task clarification, verification, and debugging skills without external connectors.",
+  "author": {
+    "name": "KCVS2002"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "AI Task Playbook",
+    "shortDescription": "Clarify tasks, verify results, and reproduce failures"
+  }
+}

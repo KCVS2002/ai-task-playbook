@@ -1,0 +1,10 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "ai-task-playbook",
+  "version": "0.2.0",
+  "description": "Task clarification, evidence-based verification, and reproducible debugging workflows.",
+  "author": {
+    "name": "KCVS2002"
+  },
+  "repository": "https://github.com/KCVS2002/ai-task-playbook"
+}
